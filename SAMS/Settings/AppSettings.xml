@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  
+  <!--<Server>IJAZ</Server>
+  <DBName>Bilal</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>Fast1234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>-->
+  
+  <Server>65.1.232.73</Server>
+  <DBName>Bilal</DBName>
+  <DBUser>app</DBUser>
+  <DBPassword>Fast12341234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+  
+</AppSettings>

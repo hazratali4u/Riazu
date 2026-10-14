@@ -1,0 +1,4 @@
+CUSTOMER_CODE varchar
+DeliveryManID int
+OrderbookerID int
+Amount decimal
